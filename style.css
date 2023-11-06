@@ -528,8 +528,7 @@ textarea:valid~label {
 }
 
 @media only screen and (max-width: 768px) {
-    .styled-input {
-    }
+    
 }
 
 .styled-input label {
